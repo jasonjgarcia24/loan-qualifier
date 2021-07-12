@@ -84,7 +84,7 @@ At any CLI query, the user can choose to exit the tool using <code>Ctrl + C</cod
 Currently just me :)<br>
 ***
 ## License<a id="License">
-Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/fintech-analytics-toolbox/blob/main/LICENSE" title="github.com/jasonjgarcia24/loan-qualifier/blob/main/LICENSE">MIT License.</a>
+Each file included in this repository is licensed under the <a href="https://github.com/jasonjgarcia24/loan-qualifier/blob/main/LICENSE" title="github.com/jasonjgarcia24/loan-qualifier/blob/main/LICENSE">MIT License.</a>
 ***
 [Top of Page](#Top-of-Page)<br>
 [Contents](#Contents)<br>
